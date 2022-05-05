@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 I’m Pear1y.
+- 🔭 I’m part of the CSG security team, interested in Web Security and IOT.
+- 🌱 I’m currently learning Java and Go.
