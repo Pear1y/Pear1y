@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I’m Pear1y.
-- 🔭 I’m part of the CSG security team, interested in Web Security and IOT.
+- 🔭 I’m member of the CSG security team, interested in Web Security and IOT.
 - 🌱 I’m currently learning Java and Go.
